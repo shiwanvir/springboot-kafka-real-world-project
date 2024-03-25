@@ -4,7 +4,7 @@ Hello! Welcome to the Wikimedia Live Streaming Application.
 Description
 This application is a  Java Spring Boot Microservices based  application which handles Wikimedia live streams with Kafaka and MySQL
 
-Technologies Used
+Technologies Used\n
 Java Spring Boot
 Java MicroServices Architecture
 Kafka
